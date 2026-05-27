@@ -1,0 +1,28 @@
+<div class="btn-discover" >
+          <button class="btm-btn-discover">Discover</button>
+          <div class="btm-btn-text"><p>Let's find a cup that fits the moment <br> What are you searching for?</p></div>
+        </div>
+        <div class="search-container">
+          <input type="text" class="input-text" placeholder="Search for tea, gifts, and more">
+        </div>
+      <span class="line-explore">Or explore by vibe</span>
+      <div class="vibe-cards">
+        <button> A Sweet Treat</button>
+        <button>Evening Unwind</button>
+        <button>Focused & Clear</button>
+        <button>Caffeine!</button>
+        <button>Ceremony-Worthy</button>
+        <button>Whole Leaf</button>
+        <button>Over Ice</button>
+        <button>Lattes</button>
+        <button>Black Tea</button>
+        <button>Green Tea</button>
+        <button>Herbal Tea</button>
+        <button>Organic</button>
+        <button>Barista Favorite</button>
+        <button>Calm & Cozy</button>
+        <button class="vibe-card">Fruit Forward</button>
+      </div>
+      <div class="origins-bg">
+        <img src="https://www.twoleavestea.com/cdn/shop/files/adam-vE90QChU-unsplash_1_1.webp?v=1771592855&width=1600">
+      </div>
